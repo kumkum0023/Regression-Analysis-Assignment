@@ -1,4 +1,4 @@
-goo# Regression-Analysis-Assignment
+# Regression-Analysis-Assignment
 
 This repository contains my **Regression Analysis Assignment**, completed as part of my Data Science / Machine Learning learning journey.
 
